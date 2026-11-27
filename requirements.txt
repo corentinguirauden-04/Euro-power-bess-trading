@@ -1,0 +1,12 @@
+# Core scientific stack (Stage 1)
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+plotly>=5.20.0
+
+# Stage 2: Quantitative MILP Optimization (upcoming)
+# scipy>=1.12.0
+# pulp>=2.8.0
+
+# Stage 3: Interactive Dashboard (upcoming)
+# streamlit>=1.35.0
